@@ -1,3 +1,4 @@
 Hi, my name is Shaira.
 I am studying Integrative Programming and Technology.
 Favorite language: Python
+Goal: build a capstone project with my team.
